@@ -40,6 +40,7 @@ I am __Wong Yong Lin__, and would love to add value to your organization.
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extra-curricular](#Extra-curricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -93,6 +94,9 @@ Regression is a supervised learning technique which helps in finding the correla
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
+
+## Extra-curricular
+
 ##### Certifications
 Machine Learning by Columbia University
 
