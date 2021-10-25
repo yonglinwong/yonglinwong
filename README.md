@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: wongyonglin91@gmail.com 
+&nbsp;&nbsp; 📲 +65-8218xxxx
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.https://www.linkedin.com/in/yong-lin-wong-127bb9217/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
